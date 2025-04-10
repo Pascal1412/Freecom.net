@@ -36,6 +36,5 @@
               </li>
           </ul>
       </nav>
-<script src="Freecom.js"></script>
 </body>
 </html>
